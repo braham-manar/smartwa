@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">smart way</string>
+    <string name="cr_er_un_compte">créer un compte</string>
+    <string name="connexion">connexion</string>
+    <string name="todo">TODO</string>
+    <string name="s_inscrire">S\'inscrire</string>
+
+
+    <string name="name">Name</string>
+    <string name="mon_compte">mon compte</string>
+    <string name="td">td</string>
+    <string name="saisir_le_mail">saisir le mail</string>
+    <string name="tod">tod</string>
+    <string name="enregistrer">enregsitrer</string>
+
+    <string name="mot_de_passe">mot de passe</string>
+    <string name="se_connecter">se connecter</string>
+    <string name="tode">tode</string>
+    <string name="nom_et_prénom">nom et prénom</string>
+    <string name="too">too</string>
+    <string name="nom">nom</string>
+    <string name="tooo">tooo</string>
+    <string name="email">email</string>
+    <string name="adresse">adresse</string>
+    <string name="num_de_téléphone">num de téléphone</string>
+
+
+    <string name="adresse_mail">adresse mail</string>
+    <string name="passer">passer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>
